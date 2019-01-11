@@ -20,4 +20,5 @@ class ArticlesController < ApplicationController
   end
 
   # add edit and update methods here
+  
 end
